@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Gui cho....<3",
+    titleWeb: "Gui cho...<3",
     introTitle: 'Bui Mai Phuong',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
